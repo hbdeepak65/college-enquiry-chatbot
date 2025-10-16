@@ -1,0 +1,12 @@
+{
+  "greeting": ["Hi! Welcome to XYZ College. How can I help you?", "Hello! Need info about XYZ College?"],
+  "courses": "We offer BTech, MTech, MBA, MCA, and Diploma courses.",
+  "admission": "Admission process: Apply online through our website, submit required documents, and pay fees.",
+  "fees": {
+    "BTech CS": "₹2,00,000 per year",
+    "BTech ECE": "₹1,80,000 per year"
+  },
+  "hostel": "Yes, we provide separate hostels for boys and girls with mess facilities.",
+  "contact": "Email: admission@xyzcollege.edu | Phone: +91-1234567890",
+  "fallback": "Sorry, I didn’t get that. Can you rephrase or contact our admin?"
+}
